@@ -1,6 +1,6 @@
 # PIXELS
 
-PIXELS-UPDATED is an update of a small React Navite application for beginners coded in my course named "React Native pour Tous - L'Ultime formation" accessible sur [Udemy](https://www.udemy.com/course/reactnative-fr/?referralCode=D12D46C5E896FB48E54E).  et sur [Success Coder](https://successcoder.com/courses/). 
+PIXELS-UPDATED is an update of a small React Navite application for beginners coded in my course named "React Native pour Tous - L'Ultime formation" on [Udemy](https://www.udemy.com/course/reactnative-fr/?referralCode=D12D46C5E896FB48E54E) and [Success Coder](https://successcoder.com/courses/). 
 This update includes, among other things, the upgrade from React Navigation 4 to 6.
 
 ## Getting Started
